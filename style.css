@@ -1,0 +1,32 @@
+* {
+	box-sizing: border-box;
+}
+body {
+    padding-top: 50px
+}
+section {
+    margin-bottom: 30px
+}
+[class*="example"] {
+    min-height:90vh;
+    background-size: cover;
+}
+.example-1 {
+    background: url(https://images.pexels.com/photos/27403/pexels-photo-27403.jpg?w=1260&h=750&auto=compress&cs=tinysrgb);
+}
+.example-2 {
+    background: url(https://images.pexels.com/photos/129441/pexels-photo-129441.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb);
+}
+.example-3 {
+    background: url(https://images.pexels.com/photos/197503/pexels-photo-197503.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb);
+}
+.example-4 {
+    background: url(https://images.pexels.com/photos/129882/pexels-photo-129882.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb);
+}
+.example-5 {
+    background: url(https://images.pexels.com/photos/401080/pexels-photo-401080.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
+}
+.modal-section {
+    text-align: center;
+}
+
